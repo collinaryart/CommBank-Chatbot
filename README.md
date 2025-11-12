@@ -7,8 +7,6 @@ The initiative assists customers by:
 - Processing banking inquiries in multiple languages.
 - Utilising user-friendly interfaces that consider cultural nuances to bridge the communication gap.
 
-Developed with Tony Hsieh, Akshita Mediratta and Kimme Tan.
-
 ## Tech Stack
 
 - **Azure Function Apps**: Serverless computing for chatbot logic.
